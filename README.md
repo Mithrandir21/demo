@@ -39,6 +39,7 @@ Analysis of the codebase, including finding known issues, bugs, security issues,
 
 
 ## BitRise CI/CD
-[![Build Status](https://app.bitrise.io/app/00529106b19e4a01/status.svg?token=e7EdZA2tcsiVLmp_ILyJJQ&branch=main)](https://app.bitrise.io/app/00529106b19e4a01)
+[![Build Status](https://app.bitrise.io/app/94cbc17b536bcdfa/status.svg?token=ITh-rjOxoYayEqgy86_wLQ&branch=main)](https://app.bitrise.io/app/94cbc17b536bcdfa)
+
 
 Continuous Integration and Continuous Delivery (CI/CD) pipelines for builds, testing, integration and releases. 
